@@ -35,7 +35,7 @@ To use this script, follow these steps:
 
 4. The script will generate a USD stage containing the auto guide cube mesh based on the bounding box of your 3D model. The guide will be saved at the specified guide_path.
 
-Please note that this script assumes that you have a valid USD model(has a default_prim and the correct UP hierarchy) at the model_geo_path. Ensure that you have set up the paths to your model and guide correctly before running the script.
+Please note that this script assumes that you have a valid USD model(has a default_prim and the correct USD hierarchy) at the model_geo_path. Ensure that you have set up the paths to your model and guide correctly before running the script.
 
 ## Function Details
 
