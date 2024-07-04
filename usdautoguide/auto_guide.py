@@ -3,7 +3,6 @@ from typing import Union
 from pathlib import Path
 
 
-
 def _get_extent(stage: Usd.Stage, prim: Union[str, Usd.Prim]) -> Gf.Range3d:
     """
     Calculates & sets the extents of a prim based on its World Bounds
